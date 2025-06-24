@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagimsisay6/Tailwind-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagimsisay6/Tailwind-course/issues"
+  },
+  "homepage": "https://github.com/dagimsisay6/Tailwind-course#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "description": ""
+}
